@@ -42,7 +42,7 @@ ruleset=🐟 漏网之鱼,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=🚀 节点选择`select`[]香港`[]台湾`[]新加坡`[]日本`[]美国`[]IPLC自动`[]DIRECT`[]其他手选`[]游戏
-custom_proxy_group=IPLC自动`url-test`(?=.*(IPLC))^((?!(普通|福利|-0.5x|-4x|-5x)).)*$`http://www.gstatic.com/generate_204`300,3,80
+custom_proxy_group=IPLC自动`url-test`(?=.*(IPLC))^((?!(普通|福利|CN2|-0.5x|-4x|-5x)).)*$`http://www.gstatic.com/generate_204`300,3,80
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]新加坡`[]香港`[]台湾`[]日本`[]美国`[]IPLC自动`[]DIRECT
 custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`[]新加坡`[]香港`[]台湾`[]日本`[]美国`[]IPLC自动`[]DIRECT
 custom_proxy_group=🎥 奈飞视频`select`[]🚀 节点选择`[]新加坡`[]香港`[]台湾`[]日本`[]美国`[]IPLC自动`[]DIRECT
