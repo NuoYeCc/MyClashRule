@@ -79,8 +79,8 @@ custom_proxy_group=日本`url-test`(日本|日|JP|Japan)`http://www.gstatic.com/
 custom_proxy_group=美国`url-test`(美国|美|US|USA|Us|us)`http://www.gstatic.com/generate_204`300,,150
 custom_proxy_group=台湾`url-test`(台湾|台|新北|彰化|TW|Taiwan)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=新加坡`url-test`(新加坡|坡|狮城|SG|Singapore)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=vLess`select`(vLess)
-custom_proxy_group=2x节点`select`(2x|2X|唯云电信|2×)
+custom_proxy_group=vLess`select`(vLess|vless|VLESS)
+custom_proxy_group=2x节点`select`(2x|2X|唯云电信|2×|唯)
 ;设置分组标志位
 
 enable_rule_generator=true
